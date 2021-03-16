@@ -1,6 +1,6 @@
-# Raspberry Pi Pico Relay Board
+# Raspberry Pi Pico Single Channel Relay Board / HAT
 
-Raspberry Pi Pico Relay Board is developed by SB Components with the potential to control up to 4 appliances and loads up to 240V AC@ 7A, 30V DC@ 10A.
+
 
 <img src="product-pic.png" />
 

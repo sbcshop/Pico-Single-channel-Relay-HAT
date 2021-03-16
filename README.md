@@ -13,7 +13,7 @@
 
 ### Requirements
 
-* Raspberry Pi Pico Relay Board (Buy it from :  )
+* Raspberry Pi Pico Single Channel Relay Board (Buy it from :  )
 * Raspberry Pi Pico (Buy it from : https://shop.sb-components.co.uk/collections/latest-collections/products/raspberry-pi-pico-board-with-header )
 * USB Cable
 * Jumper Cables (optional)
@@ -27,5 +27,5 @@
 
 <img src="https://github.com/sbcshop/Raspberry-Pi-Pico-RFID-Expansion/blob/main/images/thonny-interpreter.PNG" />
 
-* Click on green play button to run example on Pico single channel relay board.
+* Click on green play button to run example of Pico single channel relay board.
 

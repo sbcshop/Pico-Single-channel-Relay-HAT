@@ -13,7 +13,7 @@ Pico Single Channel Relay HAT is a single channel High-quality relay with loads 
 
 ### Requirements
 
-* Raspberry Pi Pico Single Channel Relay HAT (Buy it from :  )
+* Raspberry Pi Pico Single Channel Relay HAT (Buy it from : https://shop.sb-components.co.uk/products/pico-single-channel-relay-hat )
 * Raspberry Pi Pico (Buy it from : https://shop.sb-components.co.uk/collections/latest-collections/products/raspberry-pi-pico-board-with-header )
 * USB Cable
 * Jumper Cables (optional)

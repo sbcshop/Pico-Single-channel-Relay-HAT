@@ -1,8 +1,8 @@
 # Raspberry Pi Pico Single Channel Relay Board / HAT
 
+Pico Single Channel Relay HAT is a single channel High-quality relay with loads of 7A/ 250 VAC and 15A/ 120 VAC and the Switching Voltage(VAC) of 10A/ 250V and Switching Voltage(VDC) of 10A/ 30V.
 
-
-<img src="product-pic.png" />
+<img src="https://cdn.shopify.com/s/files/1/1217/2104/products/PicoRelayExpansion_700x.png?v=1616234188" />
 
 ## How to use ?
 
